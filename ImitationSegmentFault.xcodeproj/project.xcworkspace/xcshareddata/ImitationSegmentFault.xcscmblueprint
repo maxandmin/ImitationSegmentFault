@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++F58036C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++F58036C" : 0,
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++19B92DC" : 0,
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++61425DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85BC67A7-D73C-48F2-A8FF-6614E8BB847D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++F58036C" : "ImitationSegmentFault\/",
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++19B92DC" : "ImitationSegmentFault\/ImitationSegmentFault\/",
+    "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++61425DA" : "ImitationSegmentFault\/ImitationSegmentFault\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImitationSegmentFault",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImitationSegmentFault.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxandmin\/ImitationSegmentFault.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++19B92DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:maxandmin\/ImitationSegmentFault.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++61425DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxandmin\/ImitationSegmentFault.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91708BB6A24152B5882B4A2F2F3D0DCFC47A3803+++F58036C"
+    }
+  ]
+}

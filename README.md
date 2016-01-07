@@ -1,2 +1,1 @@
-# ImitationSegmentFault
-# CHWSwift git init
+# SegmentFault
